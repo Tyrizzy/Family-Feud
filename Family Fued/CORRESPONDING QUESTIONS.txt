@@ -1,0 +1,28 @@
+ROUND 1: 
+
+bodyache.txt: Name a part of your body that you might say has an "ache". 
+
+fruit.txt: Name a fruit you might eat in the morning. 
+
+house.txt: Other than wood, name a material that might be used when building a house. 
+
+ROUND 2:
+
+candy_bar.txt: Name a common candy bar ingredient. 
+
+state.txt: Name a state with a lot of mountains. 
+
+weekly.txt: Tell me something many people do or go to just once a week. 
+
+
+ROUND 3 - DOUBLE THE VALUE: 
+
+breakdown.txt: Name something that breaks down. 
+
+two_am.txt: Name a reason you would wake up at 2AM in the morning.
+
+ROUND 4 - TRIPLE THE VALUE: 
+
+bear.txt: Name a type of bear. 
+
+sports.txt: Name a sport some mothers hope their child never plays.
